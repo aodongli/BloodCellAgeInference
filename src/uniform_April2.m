@@ -1,6 +1,9 @@
 % glucose concentration sequence
+% diabetes
 G = [349, 286, 296, 273, 276, 294, 285, 240, 296, 325, 332, 252, 265, ...
     201, 224, 215, 169, 140, 135];
+% normal non-diabetes
+G = 100+10*randn(20, 1);
 % rate
 v = 20/(250*120);
 res_set = zeros(100,1);
