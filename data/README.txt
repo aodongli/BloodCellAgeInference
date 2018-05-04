@@ -17,4 +17,4 @@ Softwares:
     preproc.py // preprocesses the original data and stores the only related measurements
     reader.py // returns an object of whole data, each entry in the object is a list of list with [sample_id, timestamp, id, value] as entries; reader.py depends on the file sample_list.txt
 
-NOTE: the glucoses measured by id=811 is generally lower than the ones measured by id=807(fingerstick). (Please refer to glucose-id-dict.txt for detailed translation.)
+NOTE: the glucoses measured by id=811 are generally lower than the ones measured by id=807(fingerstick). (Please refer to glucose-id-dict.txt for detailed translation.) The corresponding value is v1 field for the files.
