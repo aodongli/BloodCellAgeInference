@@ -1,0 +1,14 @@
+[21:53:00 10/11/2008]	ch	t0=[20:30:00 10/11/2008]	tf=[14:02:00 22/11/2008]	dt=16892	id=811	el=0	cu=1	cg=140	v1=217	rs=Final	st=NotStopd
+[06:53:00 11/11/2008]	ch	t0=[05:46:00 11/11/2008]	id=811	el=0	cu=1	cg=140	v1=144	rs=Final	st=NotStopd
+[09:55:00 12/11/2008]	ch	t0=[05:25:00 12/11/2008]	id=811	el=0	cu=1	cg=140	v1=229	rs=Final	st=NotStopd
+[06:22:00 13/11/2008]	ch	t0=[05:00:00 13/11/2008]	id=811	el=0	cu=1	cg=140	v1=135	rs=Final	st=NotStopd
+[05:46:00 14/11/2008]	ch	t0=[04:00:00 14/11/2008]	id=811	el=0	cu=1	cg=140	v1=153	rs=Final	st=NotStopd
+[07:05:00 15/11/2008]	ch	t0=[06:07:00 15/11/2008]	id=811	el=0	cu=1	cg=140	v1=126	rs=Final	st=NotStopd
+[06:33:00 16/11/2008]	ch	t0=[05:42:00 16/11/2008]	id=811	el=0	cu=1	cg=140	v1=128	rs=Final	st=NotStopd
+[06:51:00 17/11/2008]	ch	t0=[05:30:00 17/11/2008]	id=811	el=0	cu=1	cg=140	v1=169	rs=Final	st=NotStopd
+[02:00:00 18/11/2008]	ch	t0=[01:55:00 18/11/2008]	id=811	el=0	cu=1	cg=140	v1=156	rs=Final	st=NotStopd
+[06:48:00 18/11/2008]	ch	t0=[06:01:00 18/11/2008]	id=811	el=0	cu=1	cg=140	v1=161	rs=Final	st=NotStopd
+[05:42:00 19/11/2008]	ch	t0=[04:30:00 19/11/2008]	id=811	el=0	cu=1	cg=140	v1=189	rs=Final	st=NotStopd
+[18:50:00 19/11/2008]	ch	t0=[17:52:00 19/11/2008]	id=811	el=0	cu=1	cg=140	v1=112	rs=Final	st=NotStopd
+[02:32:00 20/11/2008]	ch	t0=[01:54:00 20/11/2008]	id=811	el=0	cu=1	cg=140	v1=116	rs=Final	st=NotStopd
+[04:10:00 21/11/2008]	ch	t0=[03:00:00 21/11/2008]	id=811	el=0	cu=1	cg=140	v1=145	rs=Final	st=NotStopd

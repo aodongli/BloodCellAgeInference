@@ -1,0 +1,16 @@
+807 Fingerstick Glucose Chemistry                   
+811 Glucose (70-105)    Chemistry                   
+1310    FINGERSTICK GLUCOSE.                        
+1455    fingerstick glucose                     
+1529    Glucose Chemistry                   
+1812    abg: glucose                        
+1885    Fingerstick glucose                     
+2148    SureStep Glucose                        
+2267    FS glucose                      
+2338    finger stick glucose                        
+2348    FINGERSTICK GLUCOSE                     
+3447    Glucose Monitor #                       
+3744    Blood Glucose   Chemistry                   
+3745    BloodGlucose    Quick Admit               
+3816    Urine Glucose   Urine                   
+3856    zzzod Glucose   Chemistry                   

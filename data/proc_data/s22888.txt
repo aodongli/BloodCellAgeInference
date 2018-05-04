@@ -1,0 +1,8 @@
+[08:00:00 04/08/2015]	ch	t0=[06:00:00 04/08/2015]	tf=[00:29:00 08/08/2015]	dt=5429	id=811	el=0	cu=1	cg=140	v1=97	rs=Final	st=NotStopd
+[19:36:00 04/08/2015]	ch	t0=[18:53:00 04/08/2015]	id=811	el=0	cu=1	cg=140	v1=97	rs=Final	st=NotStopd
+[02:22:00 05/08/2015]	ch	t0=[01:00:00 05/08/2015]	tf=[00:29:00 08/08/2015]	dt=4289	id=807	el=0	cu=1	cg=889	rs=Manual	st=NotStopd
+[06:16:00 05/08/2015]	ch	t0=[04:00:00 05/08/2015]	id=811	el=0	cu=1	cg=140	v1=97	rs=Final	st=NotStopd
+[19:30:00 05/08/2015]	ch	t0=[18:34:00 05/08/2015]	id=811	el=0	cu=1	cg=140	v1=125	rs=Final	st=NotStopd
+[06:21:00 06/08/2015]	ch	t0=[04:00:00 06/08/2015]	id=811	el=0	cu=1	cg=140	v1=113	rs=Final	st=NotStopd
+[05:12:00 07/08/2015]	ch	t0=[04:25:00 07/08/2015]	id=811	el=0	cu=1	cg=140	v1=117	rs=Final	st=NotStopd
+[21:44:00 07/08/2015]	ch	t0=[20:28:00 07/08/2015]	id=811	el=0	cu=1	cg=140	v1=121	rs=Final	st=NotStopd

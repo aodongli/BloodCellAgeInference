@@ -1,0 +1,29 @@
+[09:48:00 23/10/2016]	ch	t0=[03:15:00 23/10/2016]	tf=[13:44:00 31/10/2016]	dt=12149	id=1529	el=0	cu=1	cg=285	v1=102	rs=Manual	st=NotStopd
+[09:48:00 23/10/2016]	ch	t0=[03:15:00 23/10/2016]	tf=[13:44:00 31/10/2016]	dt=12149	id=811	el=0	cu=1	cg=285	v1=102	rs=Manual	st=NotStopd
+[11:55:00 23/10/2016]	ch	t0=[10:45:00 23/10/2016]	id=1529	el=0	cu=1	cg=140	v1=95	rs=Final	st=NotStopd
+[11:55:00 23/10/2016]	ch	t0=[10:45:00 23/10/2016]	id=811	el=0	cu=1	cg=140	v1=95	rs=Final	st=NotStopd
+[06:36:00 24/10/2016]	ch	t0=[05:00:00 24/10/2016]	id=1529	el=0	cu=1	cg=140	v1=104	rs=Final	st=NotStopd
+[06:36:00 24/10/2016]	ch	t0=[05:00:00 24/10/2016]	id=811	el=0	cu=1	cg=140	v1=104	rs=Final	st=NotStopd
+[06:12:00 25/10/2016]	ch	t0=[05:20:00 25/10/2016]	id=1529	el=0	cu=1	cg=140	v1=119	rs=Final	st=NotStopd
+[06:12:00 25/10/2016]	ch	t0=[05:20:00 25/10/2016]	id=811	el=0	cu=1	cg=140	v1=119	rs=Final	st=NotStopd
+[02:43:00 26/10/2016]	ch	t0=[01:59:00 26/10/2016]	id=1529	el=0	cu=1	cg=140	v1=100	rs=Final	st=NotStopd
+[02:43:00 26/10/2016]	ch	t0=[01:59:00 26/10/2016]	id=811	el=0	cu=1	cg=140	v1=100	rs=Final	st=NotStopd
+[05:42:00 27/10/2016]	ch	t0=[06:00:00 27/10/2016]	tf=[13:44:00 31/10/2016]	dt=6224	id=807	el=0	cu=1	cg=1104	v1=138	rs=Manual	st=NotStopd
+[12:13:00 27/10/2016]	ch	t0=[07:24:00 27/10/2016]	id=1529	el=0	cu=1	cg=140	v1=137	rs=Final	st=NotStopd
+[12:13:00 27/10/2016]	ch	t0=[07:24:00 27/10/2016]	id=811	el=0	cu=1	cg=140	v1=137	rs=Final	st=NotStopd
+[15:17:00 27/10/2016]	ch	t0=[15:00:00 27/10/2016]	id=807	el=0	cu=1	cg=884	v1=111	rs=Manual	st=NotStopd
+[19:14:00 27/10/2016]	ch	t0=[17:36:00 27/10/2016]	id=1529	el=0	cu=1	cg=140	v1=122	rs=Final	st=NotStopd
+[19:14:00 27/10/2016]	ch	t0=[17:36:00 27/10/2016]	id=811	el=0	cu=1	cg=140	v1=122	rs=Final	st=NotStopd
+[05:00:00 28/10/2016]	ch	t0=[04:58:00 28/10/2016]	id=1529	el=0	cu=1	cg=140	v1=147	rs=Final	st=NotStopd
+[05:00:00 28/10/2016]	ch	t0=[04:58:00 28/10/2016]	id=811	el=0	cu=1	cg=140	v1=147	rs=Final	st=NotStopd
+[05:55:00 28/10/2016]	ch	t0=[04:45:00 28/10/2016]	id=1529	el=0	cu=1	cg=140	v1=138	rs=Final	st=NotStopd
+[05:55:00 28/10/2016]	ch	t0=[04:45:00 28/10/2016]	id=811	el=0	cu=1	cg=140	v1=138	rs=Final	st=NotStopd
+[17:42:00 28/10/2016]	ch	t0=[18:00:00 28/10/2016]	id=807	el=0	cu=1	cg=118	v1=91	rs=Manual	st=NotStopd
+[07:58:00 29/10/2016]	ch	t0=[06:30:00 29/10/2016]	id=1529	el=0	cu=1	cg=140	v1=105	rs=Final	st=NotStopd
+[07:58:00 29/10/2016]	ch	t0=[06:30:00 29/10/2016]	id=811	el=0	cu=1	cg=140	v1=105	rs=Final	st=NotStopd
+[16:32:00 29/10/2016]	ch	t0=[16:28:00 29/10/2016]	id=1529	el=0	cu=1	cg=140	v1=106	rs=Final	st=NotStopd
+[16:32:00 29/10/2016]	ch	t0=[16:28:00 29/10/2016]	id=811	el=0	cu=1	cg=140	v1=106	rs=Final	st=NotStopd
+[08:13:00 30/10/2016]	ch	t0=[06:45:00 30/10/2016]	id=1529	el=0	cu=1	cg=140	v1=93	rs=Final	st=NotStopd
+[08:13:00 30/10/2016]	ch	t0=[06:45:00 30/10/2016]	id=811	el=0	cu=1	cg=140	v1=93	rs=Final	st=NotStopd
+[07:48:00 31/10/2016]	ch	t0=[07:00:00 31/10/2016]	id=1529	el=0	cu=1	cg=140	v1=107	rs=Final	st=NotStopd
+[07:48:00 31/10/2016]	ch	t0=[07:00:00 31/10/2016]	id=811	el=0	cu=1	cg=140	v1=107	rs=Final	st=NotStopd

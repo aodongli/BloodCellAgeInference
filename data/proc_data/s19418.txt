@@ -1,0 +1,10 @@
+[22:34:00 06/01/2011]	ch	t0=[20:50:00 06/01/2011]	id=1529	el=0	cu=70	cg=1663	v1=108	rs=Final	st=NotStopd
+[22:34:00 06/01/2011]	ch	t0=[20:50:00 06/01/2011]	id=811	el=0	cu=70	cg=1663	v1=108	rs=Final	st=NotStopd
+[05:11:00 07/01/2011]	ch	t0=[03:30:00 07/01/2011]	id=1529	el=0	cu=70	cg=1663	v1=97	rs=Final	st=NotStopd
+[05:11:00 07/01/2011]	ch	t0=[03:30:00 07/01/2011]	id=811	el=0	cu=70	cg=1663	v1=97	rs=Final	st=NotStopd
+[11:58:00 07/01/2011]	ch	t0=[12:00:00 07/01/2011]	id=807	el=0	cu=70	cg=2474	v1=146	rs=Manual	st=NotStopd
+[03:52:00 08/01/2011]	ch	t0=[02:40:00 08/01/2011]	id=1529	el=0	cu=70	cg=1663	v1=96	rs=Final	st=NotStopd
+[03:52:00 08/01/2011]	ch	t0=[02:40:00 08/01/2011]	id=811	el=0	cu=70	cg=1663	v1=96	rs=Final	st=NotStopd
+[08:54:00 08/01/2011]	ch	t0=[07:17:00 08/01/2011]	id=1529	el=0	cu=70	cg=1663	v1=98	rs=Final	st=NotStopd
+[08:54:00 08/01/2011]	ch	t0=[07:17:00 08/01/2011]	id=811	el=0	cu=70	cg=1663	v1=98	rs=Final	st=NotStopd
+[18:02:00 08/01/2011]	ch	t0=[18:00:00 08/01/2011]	id=807	el=0	cu=70	cg=2769	v1=102	rs=Manual	st=NotStopd

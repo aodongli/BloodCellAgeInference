@@ -1,0 +1,15 @@
+[04:26:00 11/04/2014]	ch	t0=[03:20:00 11/04/2014]	tf=[16:58:00 14/04/2014]	dt=5138	id=811	el=0	cu=1	cg=140	v1=228	rs=Final	st=NotStopd
+[20:49:00 11/04/2014]	ch	t0=[20:00:00 11/04/2014]	tf=[16:58:00 14/04/2014]	dt=4138	id=807	el=0	cu=1	cg=295	v1=260	rs=Manual	st=NotStopd
+[03:29:00 12/04/2014]	ch	t0=[02:45:00 12/04/2014]	id=811	el=0	cu=1	cg=140	v1=287	rs=Final	st=NotStopd
+[11:35:00 12/04/2014]	ch	t0=[11:27:00 12/04/2014]	id=811	el=0	cu=1	cg=140	v1=222	rs=Final	st=NotStopd
+[17:49:00 12/04/2014]	ch	t0=[18:00:00 12/04/2014]	id=811	el=0	cu=1	cg=492	v1=156	rs=Manual	st=NotStopd
+[02:31:00 13/04/2014]	ch	t0=[00:00:00 13/04/2014]	id=807	el=0	cu=1	cg=103	v1=243	rs=Manual	st=NotStopd
+[05:58:00 13/04/2014]	ch	t0=[03:45:00 13/04/2014]	id=811	el=0	cu=1	cg=140	v1=234	rs=Final	st=NotStopd
+[07:02:00 13/04/2014]	ch	t0=[07:00:00 13/04/2014]	id=807	el=0	cu=1	cg=103	v1=321	rs=Manual	st=NotStopd
+[11:20:00 13/04/2014]	ch	t0=[11:00:00 13/04/2014]	id=807	el=0	cu=1	cg=-1	v1=165	rs=Manual	st=NotStopd
+[11:37:00 13/04/2014]	ch	t0=[10:30:00 13/04/2014]	id=811	el=0	cu=1	cg=140	v1=191	rs=Final	st=NotStopd
+[17:52:00 13/04/2014]	ch	t0=[18:00:00 13/04/2014]	id=807	el=0	cu=1	cg=492	v1=165	rs=Manual	st=NotStopd
+[18:50:00 13/04/2014]	ch	t0=[17:45:00 13/04/2014]	id=811	el=0	cu=1	cg=140	v1=177	rs=Final	st=NotStopd
+[23:33:00 13/04/2014]	ch	t0=[23:00:00 13/04/2014]	id=807	el=0	cu=1	cg=103	v1=325	rs=Manual	st=NotStopd
+[07:45:00 14/04/2014]	ch	t0=[06:37:00 14/04/2014]	id=811	el=0	cu=1	cg=140	v1=273	rs=Final	st=NotStopd
+[13:29:00 14/04/2014]	ch	t0=[12:00:00 14/04/2014]	id=811	el=0	cu=1	cg=187	v1=340	rs=Manual	st=NotStopd

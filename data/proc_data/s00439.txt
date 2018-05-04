@@ -1,0 +1,27 @@
+[22:42:00 13/01/2013]	ch	t0=[21:46:00 13/01/2013]	tf=[20:38:00 20/01/2013]	dt=10012	id=811	el=0	cu=1	cg=140	v1=285	rs=Final	st=NotStopd
+[03:17:00 14/01/2013]	ch	t0=[02:00:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=138	rs=Final	st=NotStopd
+[07:03:00 14/01/2013]	ch	t0=[06:00:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=107	rs=Final	st=NotStopd
+[08:35:00 14/01/2013]	ch	t0=[08:28:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=111	rs=Final	st=NotStopd
+[09:52:00 14/01/2013]	ch	t0=[09:46:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=164	rs=Final	st=NotStopd
+[10:17:00 14/01/2013]	ch	t0=[08:32:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=119	rs=Final	st=NotStopd
+[12:45:00 14/01/2013]	ch	t0=[12:38:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=132	rs=Final	st=NotStopd
+[15:23:00 14/01/2013]	ch	t0=[15:18:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=141	rs=Final	st=NotStopd
+[16:24:00 14/01/2013]	ch	t0=[15:16:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=152	rs=Final	st=NotStopd
+[21:11:00 14/01/2013]	ch	t0=[20:36:00 14/01/2013]	id=811	el=0	cu=1	cg=140	v1=138	rs=Final	st=NotStopd
+[00:15:00 15/01/2013]	ch	t0=[00:00:00 15/01/2013]	tf=[20:38:00 20/01/2013]	dt=8438	id=807	el=0	cu=1	cg=-1	v1=104	rs=Manual	st=NotStopd
+[04:57:00 15/01/2013]	ch	t0=[05:00:00 15/01/2013]	id=807	el=0	cu=1	cg=-1	v1=110	rs=Manual	st=NotStopd
+[06:35:00 15/01/2013]	ch	t0=[04:53:00 15/01/2013]	id=811	el=0	cu=1	cg=140	v1=103	rs=Final	st=NotStopd
+[13:52:00 15/01/2013]	ch	t0=[13:00:00 15/01/2013]	id=807	el=0	cu=1	cg=738	v1=101	rs=Manual	st=NotStopd
+[18:46:00 15/01/2013]	ch	t0=[17:00:00 15/01/2013]	id=811	el=0	cu=1	cg=140	v1=94	rs=Final	st=NotStopd
+[00:25:00 16/01/2013]	ch	t0=[00:00:00 16/01/2013]	id=807	el=0	cu=1	cg=-1	v1=137	rs=Manual	st=NotStopd
+[05:15:00 16/01/2013]	ch	t0=[05:00:00 16/01/2013]	id=807	el=0	cu=1	cg=-1	v1=141	rs=Manual	st=NotStopd
+[07:07:00 16/01/2013]	ch	t0=[05:00:00 16/01/2013]	id=811	el=0	cu=1	cg=140	v1=133	rs=Final	st=NotStopd
+[12:02:00 16/01/2013]	ch	t0=[12:00:00 16/01/2013]	id=807	el=0	cu=1	cg=738	v1=140	rs=Manual	st=NotStopd
+[23:40:00 16/01/2013]	ch	t0=[00:00:00 17/01/2013]	id=807	el=0	cu=1	cg=351	v1=154	rs=Manual	st=NotStopd
+[07:14:00 17/01/2013]	ch	t0=[06:15:00 17/01/2013]	id=811	el=0	cu=1	cg=140	v1=170	rs=Final	st=NotStopd
+[12:51:00 17/01/2013]	ch	t0=[12:42:00 17/01/2013]	id=811	el=0	cu=1	cg=140	v1=184	rs=Final	st=NotStopd
+[17:24:00 17/01/2013]	ch	t0=[17:00:00 17/01/2013]	id=811	el=0	cu=1	cg=187	v1=128	rs=Manual	st=NotStopd
+[06:43:00 18/01/2013]	ch	t0=[05:42:00 18/01/2013]	id=811	el=0	cu=1	cg=140	v1=108	rs=Final	st=NotStopd
+[13:47:00 18/01/2013]	ch	t0=[13:00:00 18/01/2013]	id=807	el=0	cu=1	cg=583	v1=117	rs=Manual	st=NotStopd
+[06:06:00 19/01/2013]	ch	t0=[05:18:00 19/01/2013]	id=811	el=0	cu=1	cg=140	v1=98	rs=Final	st=NotStopd
+[06:52:00 20/01/2013]	ch	t0=[04:45:00 20/01/2013]	id=811	el=0	cu=1	cg=140	v1=97	rs=Final	st=NotStopd

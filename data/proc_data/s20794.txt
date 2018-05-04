@@ -1,0 +1,22 @@
+[14:22:00 16/10/2014]	ch	t0=[14:15:00 16/10/2014]	tf=[18:24:00 17/10/2014]	dt=1689	id=807	el=0	cu=1	cg=206	v1=224	rs=Manual	st=NotStopd
+[15:12:00 16/10/2014]	ch	t0=[14:30:00 16/10/2014]	tf=[18:24:00 17/10/2014]	dt=1674	id=811	el=0	cu=1	cg=140	v1=215	rs=Final	st=NotStopd
+[23:46:00 16/10/2014]	ch	t0=[22:30:00 16/10/2014]	id=811	el=0	cu=1	cg=140	v1=135	rs=Final	st=NotStopd
+[00:39:00 17/10/2014]	ch	t0=[22:00:00 16/10/2014]	id=807	el=0	cu=1	cg=142	v1=140	rs=Manual	st=NotStopd
+[06:26:00 17/10/2014]	ch	t0=[05:00:00 17/10/2014]	id=811	el=0	cu=1	cg=140	v1=169	rs=Final	st=NotStopd
+[11:44:00 17/10/2014]	ch	t0=[12:00:00 17/10/2014]	id=807	el=0	cu=1	cg=642	v1=201	rs=Manual	st=NotStopd
+[07:19:00 18/10/2014]	ch	t0=[07:17:00 18/10/2014]	tf=[20:43:00 21/10/2014]	dt=5126	id=811	el=0	cu=1	cg=140	v1=252	rs=Final	st=NotStopd
+[08:27:00 18/10/2014]	ch	t0=[07:38:00 18/10/2014]	id=811	el=0	cu=1	cg=140	v1=265	rs=Final	st=NotStopd
+[08:33:00 18/10/2014]	ch	t0=[08:30:00 18/10/2014]	id=811	el=0	cu=1	cg=140	v1=332	rs=Final	st=NotStopd
+[09:47:00 18/10/2014]	ch	t0=[10:00:00 18/10/2014]	tf=[20:43:00 21/10/2014]	dt=4963	id=807	el=0	cu=1	cg=104	v1=325	rs=Manual	st=NotStopd
+[12:34:00 18/10/2014]	ch	t0=[12:30:00 18/10/2014]	id=807	el=0	cu=1	cg=104	v1=296	rs=Manual	st=NotStopd
+[17:41:00 18/10/2014]	ch	t0=[17:39:00 18/10/2014]	id=811	el=0	cu=1	cg=140	v1=240	rs=Final	st=NotStopd
+[18:13:00 18/10/2014]	ch	t0=[17:30:00 18/10/2014]	id=811	el=0	cu=1	cg=140	v1=252	rs=Final	st=NotStopd
+[21:41:00 18/10/2014]	ch	t0=[20:45:00 18/10/2014]	id=811	el=0	cu=1	cg=140	v1=252	rs=Final	st=NotStopd
+[05:22:00 19/10/2014]	ch	t0=[04:00:00 19/10/2014]	id=811	el=0	cu=1	cg=140	v1=285	rs=Final	st=NotStopd
+[14:05:00 19/10/2014]	ch	t0=[14:00:00 19/10/2014]	id=807	el=0	cu=1	cg=104	v1=294	rs=Manual	st=NotStopd
+[18:43:00 19/10/2014]	ch	t0=[18:00:00 19/10/2014]	id=807	el=0	cu=1	cg=104	v1=296	rs=Manual	st=NotStopd
+[01:08:00 20/10/2014]	ch	t0=[23:50:00 19/10/2014]	id=811	el=0	cu=1	cg=140	v1=276	rs=Final	st=NotStopd
+[06:16:00 20/10/2014]	ch	t0=[05:00:00 20/10/2014]	id=811	el=0	cu=1	cg=140	v1=273	rs=Final	st=NotStopd
+[23:19:00 20/10/2014]	ch	t0=[23:00:00 20/10/2014]	id=807	el=0	cu=1	cg=104	v1=296	rs=Manual	st=NotStopd
+[05:43:00 21/10/2014]	ch	t0=[04:15:00 21/10/2014]	id=811	el=0	cu=1	cg=140	v1=286	rs=Final	st=NotStopd
+[12:44:00 21/10/2014]	ch	t0=[12:00:00 21/10/2014]	id=807	el=0	cu=1	cg=642	v1=349	rs=Manual	st=NotStopd
