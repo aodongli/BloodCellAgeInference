@@ -48,4 +48,10 @@ if __name__ == "__main__":
     SRC_DIR = 'proc_data/'
 
     result = reader(sample_list, SRC_DIR)
-    print result[0]
+    for res in result:
+        l = []
+        for item in result[res]:
+            if len(item) < 4:
+                continue
+            l.append(str(item[3]))
+        print(' '.join(l))
