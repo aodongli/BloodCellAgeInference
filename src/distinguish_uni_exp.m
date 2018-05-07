@@ -12,17 +12,26 @@ res_e = zeros(6,1);
 res_e(1) = G'*F_e;
 for i = 1:5
     G(i) = 150*v; % increase by 50
+    % % delete if for step-like signal
+    %{
+    if i > 1
+        G(i-1) = 100*v;
+    end
+    %}
+    % %
     res_u(i+1) = G'*F_u;
     res_e(i+1) = G'*F_e;
 end
 res_u;
-plot(diff(res_u), ':')
+plot(diff(res_u), ':') % for step-like signal
+%plot(res_u, ':')
 hold on;
 res_e;
 plot(diff(res_e), '--')
+%plot(res_e, '--')
 legend('uniform', 'exponential');
 xlabel('days');
-ylabel('pseudo HbA1c(%)');
+ylabel('increment difference (%)');
 
 
 return;
