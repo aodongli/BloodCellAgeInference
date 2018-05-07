@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related work}{}% 2
+\BOOKMARK [1][-]{section.3}{Assumptions}{}% 3
+\BOOKMARK [1][-]{section.4}{Methods}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Uniform distribution}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Finite exponential distribution}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Distinguishing uniform distribution from finite exponential distribution}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Linear programming for generic distribution}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.5}{Pointwise deconvolution}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Uniform distribution}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Distinguishing uniform distribution from finite exponential distribution}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{Linear programming optimization}{section.5}% 13
+\BOOKMARK [1][-]{section.6}{Future work}{}% 14
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 15

@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Berg and Sacks(2008)]{berg2008haemoglobin}
+AH~Berg and DB~Sacks.
+\newblock Haemoglobin a1c analysis in the management of patients with diabetes:
+  from chaos to harmony.
+\newblock \emph{Journal of clinical pathology}, 61\penalty0 (9):\penalty0
+  983--987, 2008.
+
+\bibitem[Goldberger et~al.(2000)Goldberger, Amaral, Glass, Hausdorff, Ivanov,
+  Mark, Mietus, Moody, Peng, and Stanley]{goldberger2000physiobank}
+Ary~L Goldberger, Luis~AN Amaral, Leon Glass, Jeffrey~M Hausdorff, Plamen~Ch
+  Ivanov, Roger~G Mark, Joseph~E Mietus, George~B Moody, Chung-Kang Peng, and
+  H~Eugene Stanley.
+\newblock Physiobank, physiotoolkit, and physionet.
+\newblock \emph{Circulation}, 101\penalty0 (23):\penalty0 e215--e220, 2000.
+
+\bibitem[Goldstein(1984)]{goldstein1984glycosylated}
+David~E Goldstein.
+\newblock Is glycosylated hemoglobin clinically useful?, 1984.
+
+\bibitem[Grant and Boyd()]{grant2008cvx}
+Michael Grant and Stephen Boyd.
+\newblock Cvx: Matlab software for disciplined convex programming.
+
+\bibitem[Kahn et~al.(2007)Kahn, Hicks, Muller, Panteghini, John, Deeb, Buse,
+  Nathan, Ferrannini, Heine, et~al.]{kahn2007consensus}
+Richard Kahn, Jocelyn Hicks, Mathias Muller, Mauro Panteghini, Garry John,
+  Larry Deeb, John Buse, David~M Nathan, Ele Ferrannini, Robert Heine, et~al.
+\newblock Consensus statement on the worldwide standardization of the
+  hemoglobin a1c measurement: the american diabetes association, european
+  association for the study of diabetes, international federation of clinical
+  chemistry and laboratory medicine, and the international diabetes federation.
+\newblock \emph{Diabetes Care}, 30\penalty0 (9):\penalty0 2399--2400, 2007.
+
+\bibitem[Nathan et~al.(1984)Nathan, Singer, Hurxthal, and
+  Goodson]{nathan1984clinical}
+David~M Nathan, Daniel~E Singer, Katherine Hurxthal, and John~D Goodson.
+\newblock The clinical information value of the glycosylated hemoglobin assay.
+\newblock \emph{New England Journal of Medicine}, 310\penalty0 (6):\penalty0
+  341--346, 1984.
+
+\bibitem[Nathan et~al.(2008)Nathan, Kuenen, Borg, Zheng, Schoenfeld, and
+  Heine]{nathan2008translating}
+David~M Nathan, Judith Kuenen, Rikke Borg, Hui Zheng, David Schoenfeld, and
+  Robert~J Heine.
+\newblock Translating the a1c assay into estimated average glucose values.
+\newblock \emph{Diabetes care}, 31\penalty0 (8):\penalty0 1473--1478, 2008.
+
+\bibitem[Nathan et~al.(2007)Nathan, Turgeon, and Regan]{nathan2007relationship}
+DM~Nathan, H~Turgeon, and S~Regan.
+\newblock Relationship between glycated haemoglobin levels and mean glucose
+  levels over time.
+\newblock \emph{Diabetologia}, 50\penalty0 (11):\penalty0 2239--2244, 2007.
+
+\end{thebibliography}
